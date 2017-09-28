@@ -49,7 +49,7 @@
         "publicIPAddressName": "myPublicIP",
         "publicIPAddressType": "Dynamic",
         "vmName": "MyUbuntuVM",
-        "vmSize": "Standard_Ds5_v2",
+        "vmSize": "Standard_Ds4_v2",
         "virtualNetworkName": "MyVNET",
         "vnetID": "[resourceId('Microsoft.Network/virtualNetworks/', concat(parameters('index'),variables('virtualNetworkName')))]",
         "subnetRef": "[concat(variables('vnetID'),'/subnets/',parameters('index'),variables('subnetName'))]"
