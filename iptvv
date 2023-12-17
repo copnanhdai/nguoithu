@@ -30,6 +30,6 @@ http://115.73.191.210:8080/sctv/s13/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.v
 #EXTINF:-1 tvg-id="htv9hd" group-title="GG" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD Dự Phòng
 http://171.232.109.42:8080/sctv/s13/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8?token=_rxVlhZMpqvJUTNoc2qSEg&e=1702837393
 #EXTINF:-1 tvg-id="vtv1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-https://vtvgolive-vtv.vtvdigital.vn/8fSjXjLqi1aO9fccUvERFw/1702829757/vtvdigital/vtv1-720p.m3u8
+http://115.73.191.210:8080/sctv/s5/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 Dự Phòng
 http://171.232.97.72:8080/sctv/s5/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8?token=hgrZI128jPUWOTGpdavZIA&e=1702838279
