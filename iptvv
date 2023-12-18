@@ -13,12 +13,12 @@ https://code.vthanhtivi.pw/getlink/tv360/z4VhjOMERfU35djiLfrayw/1702830018/194/p
 #EXTINF:-1 tvg-id="vtv1hd" group-title="TH" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://code.vthanhtivi.pw/getlink/tv360/_8mncW6OdIjg5uP8XUN8UQ/1702830018/2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live3.thvli.vn/pYDrmQblTsNCmZqAWu0nuQ/1702840193/thvli/thvl1-abr/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD Dự Phòng
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://171.232.109.42:8080/sctv/s8/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8?token=uSBF24BoPmdp8MfA-3Z0Gw&e=1702836086
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD Dự Phòng 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="GG" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://115.73.191.210:8080/sctv/s10/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8?token=Yhznh7qF3_4zUa2GbyoW2w&e=1702814880
