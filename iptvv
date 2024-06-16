@@ -6,6 +6,10 @@
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="TH" tvg-logo="https://i.imgur.com/ceo06Rf.png", THVL2 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
+
 #EXTINF:-1 tvg-id="htv7hd" group-title="TH" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
@@ -20,29 +24,24 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://171.232.109.42:8080/sctv/s8/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8?token=uSBF24BoPmdp8MfA-3Z0Gw&e=1702836086
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD Dự Phòng 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="GG" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://115.73.191.210:8080/sctv/s10/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8?token=Yhznh7qF3_4zUa2GbyoW2w&e=1702814880
-#EXTINF:-1 tvg-id="htv7hd" group-title="GG" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD Dự Phòng
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://171.232.109.42:8080/sctv/s10/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8?token=uSBF24BoPmdp8MfA-3Z0Gw&e=1702836086
-#EXTINF:-1 tvg-id="htv9hd" group-title="GG" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD
-http://115.73.191.210:8080/sctv/s13/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8?token=_rxVlhZMpqvJUTNoc2qSEg&e=1702837393
-#EXTINF:-1 tvg-id="htv9hd" group-title="GG" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD Dự Phòng
-http://171.232.109.42:8080/sctv/s13/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8?token=_rxVlhZMpqvJUTNoc2qSEg&e=1702837393
-#EXTINF:-1 tvg-id="vtv1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-http://115.73.191.210:8080/sctv/s5/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="GG" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 Dự Phòng
-http://171.232.97.72:8080/sctv/s5/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8?token=hgrZI128jPUWOTGpdavZIA&e=1702838279
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳| SCTV"  tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/OJMbhow.png",SCTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/rIqmRNK.png",SCTV14 — Kênh Phim Việt HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+
+
+
