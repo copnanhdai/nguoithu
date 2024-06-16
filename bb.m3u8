@@ -1,0 +1,925 @@
+#EXTM3U
+#EXTINF:40, VTV1
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2psaGxYRXM2cnlOUS9WeitFSXA4d2M=/master.m3u8
+#EXTINF:40,Transcoder01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2gybkUrSlJra3FSMm5LWUFuL3QvU0Q=/master.m3u8
+#EXTINF:0, VTV3
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2lybjlKVUN5a3hzUUFtL25tYlZwM3E=/master.m3u8
+#EXTINF:0, VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2dPdUlxK3RmYmxBTmh2R0hMKzZhcTU=/master.m3u8
+#EXTINF:0, VTV5
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2d0dkkyNjg2OUplUmMyTjBISWRoMjc=/master.m3u8
+#EXTINF:0, VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2pPMlczb0dURDY5OEVLSXY5QndoTVg=/master.m3u8
+#EXTINF:0, VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2h6dENYMlh4WjVEblJXbytTZXJuRDE=/master.m3u8
+#EXTINF:0, VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2ladnljTGhERFVlQktaRVdiSkk4VXo=/master.m3u8
+#EXTINF:0, VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2lyS3JhY000WTN3NkRiTlRZNlI0d2I=/master.m3u8
+#EXTINF:0, VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2haOEVISitOTm5YV3A3NzVZY0pwUEE=/master.m3u8
+#EXTINF:0, VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2dGVlEzL1Q3b3l4RUdkYjJ4dHdIOGQ=/master.m3u8
+#EXTINF:0, VTV5 Thử Nghiệm LLC
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2hPbGlIdElid1NFaThRem42cjJNUnE=/master.m3u8
+#EXTINF:0, VTC1
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2pmMmNxbmtVNWlHcU1ERit4dUhYeW8=/master.m3u8
+#EXTINF:0, VTC3
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2pabFNVQjBwbjlWUHNFaVU1ZWhxV3A=/master.m3u8
+#EXTINF:0, VTC5
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2g3QWc2S1RiNURCSFVWbDcwK3hWMTA=/master.m3u8
+#EXTINF:0, VTC6
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2dqWHdoeVVadGN4NzMvN1hsTEVnSWI=/master.m3u8
+#EXTINF:0, VTC7
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2lNSHBmNS9WdlAxNytzSHhaV0krMno=/master.m3u8
+#EXTINF:0, VTC8
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2hMK0JaWWlxM2NqWkJ1OWM3Sk02eVI=/master.m3u8
+#EXTINF:0, VTC9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWRXSDV4UlRubDVHN3NNSm1XQXZZeEsvaFNlaHkwVHQvVVBBUXcxNTJiVFU=/master.m3u8
+#EXTINF:0, VTC10
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2hvRmxjcm1PNzBjVUpoQ1FVY3V3NjM=/master.m3u8
+#EXTINF:0,  VTC11
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2gwcnZoWmRFRWtLeHo1cUJCNjBPeUQ=/master.m3u8
+#EXTINF:0, VTC14
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2diRkZVK0J3SzRCM2xydE8vNDZWd3Q=/master.m3u8
+#EXTINF:0, VTC16
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2dFU3JWVXdCUUlWenpTVjJOcGVtZEM=/master.m3u8
+#EXTINF:0, HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWRHRmx4K0JwUHJwWXFjRk9HZFIxaWJaSFYwTGFFVU1FY3NSdHdIYjRDWGI=/master.m3u8
+#EXTINF:0, HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tm1IVVBLVlh5UkZGVGxKWGo3T2ZlWms=/master.m3u8
+#EXTINF:0, HTV Key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6TmxMcXZBMzlPZ0dyYUZUNE1vTmNUalA=/master.m3u8
+#EXTINF:0, HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2dYVHBvZ0lIa2Yza29mNTdNL1lvT0Y=/master.m3u8
+#EXTINF:0,HTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tms2T2ZLVk96RzE5SnluWkpMMlF3WFo=/master.m3u8
+#EXTINF:0,HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tms0eDI5SEo4Q3JaL0lJcC9kM1NXUTg=/master.m3u8
+#EXTINF:0,HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWRHRmx4K0JwUHJwWXFjRk9HZFIxaVpBeDRCNU5pcUpNZkhJenVtcmFHdDU=/master.m3u8
+#EXTINF:0, HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6TmxtcGg2VGNqbUh1T2dlVTdBT3ZEclU=/master.m3u8
+#EXTINF:0, HTVC Gia đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6TmtMVXVoT3BkR3dCVEhTdlhQbFFNWVM=/master.m3u8
+#EXTINF:0, HTVC Phụ nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tm1tRVN2eWk2UG1TS3BFbmgrZ2pFTmk=/master.m3u8
+#EXTINF:0, HTVC Du lịch Cuộc sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tm1LeXNNUTBkUFdtVDlEV25iaTdxUDI=/master.m3u8
+#EXTINF:0, HTVC Ca nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tm0vdVlMQ2plRUp5cWhhTjBnYTRFSmo=/master.m3u8
+#EXTINF:0, HTVC Phim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tm0zOCsvYjlnVm9iYk5yZ2JKT3hSZUY=/master.m3u8
+#EXTINF:0, HTVC Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWRXSDV4UlRubDVHN3NNSm1XQXZZeEo4T2o1L0U3UXViRks4STZhVFJ2VG0=/master.m3u8
+#EXTINF:0, ANTV
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:0, Quốc Hội
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2hTb2wvVU91aU5mbk9iUGIzYXYzUWw=/master.m3u8
+#EXTINF:0, QPVN
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SWFEZWRhSmlqUllnaHNxTzVoN0hzK2lsc25QQVNDWW8rRUFsTDNBQmg1RnE=/master.m3u8
+#EXTINF:0,VOVTV
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGY0QXdzaUVVUEI1TXZ5OFlLaHhCeE15UVlVNjhBNThFTWpkWHlmSit3SVZQNEVydzkwQWt0Y0RhMnNWNHp6Tm5nVjFyazkzcWU5M3pMb3Y2NzV6R3o=/master.m3u8
+#EXTINF:0,Nhân Dân TV
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
+#EXTINF:0, VNews
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist.m3u8
+#EXTINF:0, SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSW9WamFhYXdZemNMM0VaZnVYamR3U1E=/master.m3u8
+#EXTINF:0, SCTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXBXNzA3T1ovVm53YVZLd0N2Z2VuSVk=/master.m3u8
+#EXTINF:0, SCTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXFtdzdVZEoxK0d5MDVDVGpjd2trUTM=/master.m3u8
+#EXTINF:0, SCTV5 - SCJ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXBtQ1BDclhNeTVveHZVRkFKVk9QejY=/master.m3u8
+#EXTINF:0, SCTV6
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXFOcTcyWXkrZTFMS2dCdHFqTjJKaEo=/master.m3u8
+#EXTINF:0, SCTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXBLQ3FmUVNVOFFNZmtmWFVsMUJWOFE=/master.m3u8
+#EXTINF:0, SCTV11
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXFiSCtjSFZZUmxKTFpiWGJwN01VY1A=/master.m3u8
+#EXTINF:0, SCTV14
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSW9xYlRkQVI1a0xldDlQU0N1Ym1Bakw=/master.m3u8
+#EXTINF:0, SCTV15
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXIvcUFrWU9Ob1pxT3JsWnpvTUtEQSs=/master.m3u8
+#EXTINF:0, SCTV16
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXJpbUFwM3pLOWdtN0NtZWQ3aDFxbkU=/master.m3u8
+#EXTINF:0, SCTV17
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXEyekZacGxJcEk2WHF6bXdZYm9yQ1o=/master.m3u8
+#EXTINF:0, SCTV22
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXF4VCs3cWNPa2Q2ekZTVCswVW1FZVE=/master.m3u8
+#EXTINF:0, SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTW12RXMvTFhkbC9WcXlOU3ZTRzJXSXFGTXdLcUcyQ2Q2cUZ2QWlpZDMvSUFZOGI0YSszNVFHWWFpeDRHd0ZBL2Z3PT0=/master.m3u8
+#EXTINF:0, Arirang
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0, CNA
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0, DW
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0, France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXZTUXRQMGtYN05QWVF3ZS9PVnRobEU=/master.m3u8
+#EXTINF:0,KBS World
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0, NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://cdn.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+#EXTINF:0,NHK World Premium
+#EXTVLCOPT:network-caching=1000
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:0, TV5Monde
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:0,Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTXJvcW42bHBaYXQ2ZXE0aFVTbjV3UXBhL1BXZGtOTEluaTJUcVM4NmJxNW4=/master.m3u8
+#EXTINF:0,Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTXJvcW42bHBaYXQ2ZXE0aFVTbjV3UXJGRDNHR3p4ZmpKOUF6NFpSVmtjYmQ=/master.m3u8
+#EXTINF:0,Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTXJvcW42bHBaYXQ2ZXE0aFVTbjV3UXJyWVB6UGpTRlNYbHB4Nmhma2lxOVk=/master.m3u8
+#EXTINF:0,Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTXJvcW42bHBaYXQ2ZXE0aFVTbjV3UW9PQVVGTndCY0xPY1pMVGpYdWFFWUg=/master.m3u8
+#EXTINF:0,BTV1
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXV3a1I1cGlBL2FJaW03NXFDQk9VN3E=/master.m3u8
+#EXTINF:0,BTV2
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXYwTy9XS1FpZmNhbUhXUmE1YlBFMG8=/master.m3u8
+#EXTINF:0,BTV9
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXREWVR0ZFpISHJnMXQ4T3puRXM3dkY=/master.m3u8
+#EXTINF:0, Bình Thuận
+#EXTVLCOPT:network-caching=1000
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
+#EXTINF:0, BPTV1
+#EXTVLCOPT:network-caching=1000
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:0, BPTV2
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+#EXTINF:0, Bình Định
+#EXTVLCOPT:network-caching=1000
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:0, Bắc Ninh
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXNyNC9UTjNiVmNYNXJHeEZCT21OaVg=/master.m3u8
+#EXTINF:0,Hà Nội 1
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamhntv.tek4tv.vn/capture/HN1_720p/playlist.m3u8
+#EXTINF:0,Hà Nội 2
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:0, Thái Nguyên
+#EXTVLCOPT:network-caching=1000
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:0, Sơn La
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:0, An Giang
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXM3dXB5MW16RlJlaUFwOEJTSVJkcFY=/master.m3u8
+#EXTINF:0, Truyền Hình Đồng Tháp 1
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXRnajRKelpjblFCYlVkZC90MHlaamQ=/master.m3u8
+#EXTINF:0, Truyền Hình Đồng Tháp 2
+#EXTVLCOPT:network-caching=1000
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:0, THTPCT
+#EXTVLCOPT:network-caching=1000
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:0, KG
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:0, KG1
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:0, HGTV
+#EXTVLCOPT:network-caching=1000
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
+#EXTINF:0, Hải Phòng
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:0, Hải Phòng +
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:0, Thái Bình
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
+#EXTINF:0, NTV Nam Định
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXRxOTVkZUl1ZFYrdkY1VmFhL1dSMVY=/master.m3u8
+#EXTINF:0, Vĩnh Phúc
+#EXTVLCOPT:network-caching=1000
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w188836389.m3u8
+#EXTINF:0, Bắc Giang
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXY5TGVYSWFJdUZST1kwbVNBajJmcUg=/master.m3u8
+#EXTINF:0, Phú Thọ
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXM0UkE1ODgvMjNPd0Y2UU9PSy8yYkc=/master.m3u8
+#EXTINF:0, Phú Yên
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXZhTmxCTUdKZVJ1ZW1wU2hNdi9BOWU=/master.m3u8
+#EXTINF:0, Hà Giang
+#EXTVLCOPT:http-user-agent=KuboLive (application,1.2.1)
+#EXTVLCOPT:network-caching=1000
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+#EXTINF:0, Hà Nam
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+#EXTINF:0, Ninh Bình
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
+#EXTINF:0, Thanh Hóa
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTXNUOW95VG5Ka2pjdXh6VllBNDNTdXIzUC9nYlZUUlkwNnlkNHVkWEh4aUs=/master.m3u8
+#EXTINF:0, Nghệ An
+#EXTVLCOPT:network-caching=1000
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:0, Hà Tĩnh
+#EXTVLCOPT:network-caching=1000
+https://wse.hatinhtv.net/live/httv1/chunklist_w1879127949.m3u8
+#EXTINF:0,Quảng Bình
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXVURG9kbnZ6eE9QRnFhS1JSS2RFMzI=/master.m3u8
+#EXTINF:0,Quảng Ngãi
+#EXTVLCOPT:network-caching=1000
+http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
+#EXTINF:0,Quảng Nam
+#EXTVLCOPT:network-caching=1000
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,Quảng Trị
+#EXTVLCOPT:network-caching=1000
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
+#EXTINF:0, Thừa Thiên Huế
+#EXTVLCOPT:network-caching=1000
+http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
+#EXTINF:0, Kon Tum
+#EXTVLCOPT:network-caching=1000
+http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:0, Lâm Đồng
+#EXTVLCOPT:network-caching=1000
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1038357030_b584000.m3u8
+#EXTINF:0, Đồng Nai 1
+#EXTVLCOPT:network-caching=1000
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1168178406_b1384000.m3u8
+#EXTINF:0, Đồng Nai 2
+#EXTVLCOPT:network-caching=1000
+http://tv.volam.pro/playlist/tvonline/VFVJcTFPVjA4cUFFdE0yOVF4UlVESEpRcVRWcWJjSlRuTmFmVVZrR2ZNMGIyTDYrei9xMXdlRXllcmwrSmdzc2xEbHBVMWtQYlcrQWZqakliQXdWTWhpSVJReTA4cUI1cTBrZ1dsdHdKaXNyZ0g1c1F3UXhBR1JZNmxUZEhoMTc=/master.m3u8
+#EXTINF:0,Racing.com
+#EXTVLCOPT:network-caching=1000
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:0,Edge Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8?cc
+#EXTINF:0,Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
+#EXTINF:0,Billard TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2167&live=1&avod=1
+#EXTINF:0,BEIN SPORTS XTRA
+#EXTVLCOPT:network-caching=1000
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:0, NHK G 
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+#EXTINF:0, NHK E 
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+#EXTINF:0, NTV 
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+#EXTINF:0, TBS 
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+#EXTINF:0, Fuji TV  
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+#EXTINF:0, TV Asahi  
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+#EXTINF:0, TV Tokyo 
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+#EXTINF:0, TOKYO MX1
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+#EXTINF:0, NHK BS
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
+#EXTINF:0, BS11
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+#EXTINF:0, BS Animax  
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+#EXTINF:0, Space Shower TV
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
+#EXTINF:0, AT-X
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+#EXTINF:0, NHK G Osaka
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:0, MBS
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:0, Yomiuri TV  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:0, SUN TV
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:0, NHK BS1  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:0, NHK BS Premium 4K
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:0, BS NTV
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:0, BS Asahi  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:0, BS TBS  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:0, BS TV Tokyo
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:0, BS Fuji  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:0, WOWOW Prime  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:0, WOWOW Live  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:0, WOWOW Cinema
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:0, Star Channel 1  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:0, Star Channel 2  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:0, Star Channel 3  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:0, Green Channel  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:0, J SPORTS 1  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:0, J SPORTS 2  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:0, J SPORTS 3  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:0, J SPORTS 4  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:0, BS Fishing Vision  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:0, BS Japan Movie Channel  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:0, Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:0, 東映チャンネル / Toei Channel
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:0, 衛星劇場 / Eisei Gekijo 
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:0, ムービープラス / Movie Plus
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:0, スカイ・A / Sky A  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:0, GAORA SPORTS  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:0, 日テレジータス / Nittele G+
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:0, ファミリー劇場 / Family Gekijyo
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:0, MTV  
+#EXTVLCOPT:network-caching=1000
+https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
+#EXTINF:0, キッズステーション / Kids Staton TV
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:0, Cartoon Network 
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:0, ディズニージュニア / Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:0, Discovery Channel  
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:0,19:15-16/06. Hải Phòng vs Bình Dương (SD - BLV Nhà đài)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/xjdk2jcHDcdWooIDsjKjJQ/Fv2lucGIbhPi2caWYvF5Lg/1718579120638/live/may6/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:15-16/06. Hà Nội vs Công An Hà Nội (FullHD - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/GGa_H9I3w9rEhumiQTtKRg/Fv2lucGIbhPi2caWYvF5Lg/1718561779508/live/phoFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:15-16/06. Hà Nội vs Công An Hà Nội (HD - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/b1ee2fc3c6cbedd18a110ccb5459ace6/1718561779508/live/phoHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:15-16/06. Hà Nội vs Công An Hà Nội (SD1 - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/HlJGZL0Z5ff93ilz4QmCpA/2270a8f479503a8ecc2c2860b5f42ece/1718561779/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:15-16/06. Hà Nội vs Công An Hà Nội (SD2 - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NjE3NzksInVyaSI6Ii9waG9TRCIsImlhdCI6MTcxODU0MDE3OX0.MbnqnEoGMWdgNVLnUGPZYlcKKUeM6PZ8-A5bsUOVW54-/phoSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:15-16/06. Hà Nội vs Công An Hà Nội (Backup 1 - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://apisportvb90xltcbk-secure.nsnd.live/ifVnNrMQ1p5jssXaKnHlBA/Fv2lucGIbhPi2caWYvF5Lg/1718561779508/live/sd-6MsFf29vQxFys9aoDu/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:30-16/06. China Women vs Poland Women (FullHD - BLV Người Thỏ)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/koDAUoaMPMDflkPBUMvraA/Fv2lucGIbhPi2caWYvF5Lg/1718564286857/live/may2FHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:30-16/06. China Women vs Poland Women (HD - BLV Người Thỏ)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/fc0515bd41884bbf8106795ea508aa2a/1718564286857/live/may2HD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:30-16/06. China Women vs Poland Women (SD1 - BLV Người Thỏ)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/EuJrhGB-wM1SOnZHOEPEMw/c33802a5a395ede7761a67cd14ccc0a8/1718564286/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:30-16/06. China Women vs Poland Women (SD2 - BLV Người Thỏ)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NjQyODYsInVyaSI6Ii9tYXkyU0QiLCJpYXQiOjE3MTg1NDI2ODZ9.D2k-Hv7KX6vk132CaV0D4TPSSFQEpVZFN8VtoozOE-Q-/may2SD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,19:30-16/06. China Women vs Poland Women (Nhà đài - BLV Người Thỏ)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/eDycLitxgxief-LcM1b47A/Fv2lucGIbhPi2caWYvF5Lg/1718564286857/live/may11/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,20:00-16/06. Poland vs Netherlands (FullHD - BLV Trâu Gác Bếp)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/QS51Ba5FMuVzABZcj_IrdQ/Fv2lucGIbhPi2caWYvF5Lg/1718563301716/live/Z1FHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,20:00-16/06. Poland vs Netherlands (HD - BLV Trâu Gác Bếp)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/f8d4d74f20b179e53ba8b712b334bfcc/1718563301716/live/Z1HD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,20:00-16/06. Poland vs Netherlands (SD1 - BLV Trâu Gác Bếp)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/l61fY5uT2fR08Kl8WdMzKQ/7bee5c194c47d02850ee2af54bc0b8cb/1718563301/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,20:00-16/06. Poland vs Netherlands (SD2 - BLV Trâu Gác Bếp)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NjMzMDEsInVyaSI6Ii9aMVNEIiwiaWF0IjoxNzE4NTQxNzAxfQ.t-4Q1NClz_ZHSC74O9zC6_rPMo3AA7iYHeQDyqR5SY8-/Z1SD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,20:00-16/06. Poland vs Netherlands (Nhà đài - BLV Trâu Gác Bếp)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/3c072bdff22fec538e61f34076576286/1718563301716/live/may10/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,20:00-16/06. Belgium Women vs Romania Women (HD - BLV Nhà đài)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/ll_DqSjDs-n35K_MILIieQ/Fv2lucGIbhPi2caWYvF5Lg/1718584209900/live/may8/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:00-16/06. LEC Summer 2024 (FullHD - BLV Tai Lung)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/oyyC3unUpo5ltJvV1Ma76w/Fv2lucGIbhPi2caWYvF5Lg/1718574423266/live/lungFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:00-16/06. LEC Summer 2024 (HD - BLV Tai Lung)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/70c26ca33ee202e5cf447bf11ba6c586/1718574423266/live/lungHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:00-16/06. LEC Summer 2024 (SD1 - BLV Tai Lung)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/etCxStc_OcBD-nKES4Pmdw/5e511bd34d0a87bb1fdc4190498d109f/1718574423/live/_definst_/stream_1_1bda7@lungSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:00-16/06. LEC Summer 2024 (SD2 - BLV Tai Lung)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NzQ0MjMsInVyaSI6Ii9sdW5nU0QiLCJpYXQiOjE3MTg1NTI4MjN9.m9OajKVm9cox6wRBTx-rxM-Fsp3c0w7BSWlehQSmqio-/lungSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:59-16/06. Indiana Fever vs Chicago Sky (FullHD - BLV Người Phép)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/WicfuChM4L7NZomEHh1m5g/Fv2lucGIbhPi2caWYvF5Lg/1718574053241/live/phepFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:59-16/06. Indiana Fever vs Chicago Sky (HD - BLV Người Phép)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/8cb67128d0bbc7b2021cfee606cc7689/1718574053241/live/phepHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:59-16/06. Indiana Fever vs Chicago Sky (SD1 - BLV Người Phép)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/zW-lN_Qv6UhkvsHTnaYvqA/2280384c055b58ade4fbf474ea7fb4af/1718574053/live/_definst_/stream_1_1bda7@phepSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,22:59-16/06. Indiana Fever vs Chicago Sky (SD2 - BLV Người Phép)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NzQwNTMsInVyaSI6Ii9waGVwU0QiLCJpYXQiOjE3MTg1NTI0NTN9.95PejaWjdw8jSKlEdDuDWV-XEZMfFzfBMIfKo4YPrA0-/phepSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (FullHD - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/ZbEZvUw-Ef0eX-W3UYjfBA/Fv2lucGIbhPi2caWYvF5Lg/1718576458478/live/cuonFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (HD - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/a50253fd5ef24bff55dc7d6c13597c76/1718576458478/live/cuonHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (SD1 - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/UFpK-QF_3FldW8h1JLCTTw/e0cbdf727a82f90c0795ef9ffacae6f1/1718576458/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (SD2 - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NzY0NTgsInVyaSI6Ii9jdW9uU0QiLCJpYXQiOjE3MTg1NTQ4NTh9.6o6uFCZHKMbCYylziyFKzKh7ZnS69KTG4VbJ1qveuW4-/cuonSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (Nhà đài - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/yve_ond-Np5hHwUZNaOyNg/Fv2lucGIbhPi2caWYvF5Lg/1718576458478/live/may10/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (Backup 1 - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://apisportvb90xltcbk-secure.nsnd.live/iumCboHrkkSs30wpPGLvLg/Fv2lucGIbhPi2caWYvF5Lg/1718576458478/live/sd-6MrAfrQzvfHJnuEf2K/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Slovenia vs Denmark (Backup 2 - BLV Bánh Cuốn)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://apisportvb90xltcbk-secure.nsnd.live/NdlT_O1Mcg0sv-eoFF9Sbw/Fv2lucGIbhPi2caWYvF5Lg/1718576458478/live/hd-en-6MrAfrQzvfHJnuEf2K/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Sweden Women vs Czech Republic Women (FullHD - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/LYYzjoAoFV7VxbyqXCo2Ww/Fv2lucGIbhPi2caWYvF5Lg/1718576458693/live/phoFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Sweden Women vs Czech Republic Women (HD - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/42ae354ee1880fac797a964bcad78e4f/1718576458693/live/phoHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Sweden Women vs Czech Republic Women (SD1 - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Sweden Women vs Czech Republic Women (SD2 - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1NzY0NTgsInVyaSI6Ii9waG9TRCIsImlhdCI6MTcxODU1NDg1OH0.bj75Jm2QNZWOm7x4pLKrbnTY496O5xRmossHvo-2ebM-/phoSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,23:00-16/06. Sweden Women vs Czech Republic Women (Nhà đài - BLV Phở Bò)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/YROL2HXpoHyBvwMyBaNCVw/Fv2lucGIbhPi2caWYvF5Lg/1718576458693/live/may8/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,00:35-17/06. Orioles vs Phillies (SD - BLV Nhà đài)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/LoFtoK1aNHp8cNJcyxFolg/Fv2lucGIbhPi2caWYvF5Lg/1718581235173/live/may7/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,00:37-17/06. Blue Jays vs Guardians (HD - BLV Nhà đài)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/YreLwHOnCOlvj9hvDwR94w/Fv2lucGIbhPi2caWYvF5Lg/1718581203290/live/may6/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (FullHD - BLV Người Rơi)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/KEGLF0iq5OB3rCD7sXwzKg/Fv2lucGIbhPi2caWYvF5Lg/1718584203341/live/Z1FHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (HD - BLV Người Rơi)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/3c5366673d48aed562a8af91d2bc6904/1718584203341/live/Z1HD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (SD1 - BLV Người Rơi)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/N0A3L7zX6LP-27DgZYFNag/7bee5c194c47d02850ee2af54bc0b8cb/1718584203/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (SD2 - BLV Người Rơi)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1ODQyMDMsInVyaSI6Ii9aMVNEIiwiaWF0IjoxNzE4NTYyNjAzfQ.zczvpWyM95QIzW8dxQMBlGXzVOwxeAkU9VOlAAD2fBI-/Z1SD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (Nhà đài - BLV Người Rơi)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/Pc2LRDaPHxTbHiE_M1NaBQ/Fv2lucGIbhPi2caWYvF5Lg/1718584203341/live/may10/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (FullHD - BLV Bún Chả)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/GO0VtPuPVIQFAqQNFZUOPQ/Fv2lucGIbhPi2caWYvF5Lg/1718584203385/live/chaFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (HD - BLV Bún Chả)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/04b68881c2f986e8fd57d46d9363dee0/1718584203385/live/chaHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (SD1 - BLV Bún Chả)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/DVY1qugEvsjIbF6JWgosNw/54104f51ea1d97e68208bdcd6a54fc49/1718584203/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (SD2 - BLV Bún Chả)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1ODQyMDMsInVyaSI6Ii9jaGFTRCIsImlhdCI6MTcxODU2MjYwM30.N-Apm7DJDpkVAaOFcDLwSgvSG_SVXojOUtAZDv5-Ut0-/chaSD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,02:00-17/06. Serbia vs England (Nhà đài - BLV Bún Chả)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179591709.thapcam.link/wa2W8fXEUsl1AylOiumTkA/Fv2lucGIbhPi2caWYvF5Lg/1718584203385/live/may10/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,03:10-17/06. Dodgers vs Royals (FullHD - BLV Người Cây)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://obevcimanyd179569584.thapcam.link/wMPcN6wMwKG4tq8Fl-cmBw/Fv2lucGIbhPi2caWYvF5Lg/1718585103041/live/cayFHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,03:10-17/06. Dodgers vs Royals (HD - BLV Người Cây)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-eu-pzybaks9eeliv.thapcam.link/6e90a0e597074d2e33555a1efcb849ac/1718585103041/live/cayHD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,03:10-17/06. Dodgers vs Royals (SD1 - BLV Người Cây)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://vb90xltcvg-secure.nsnd.live/duKtz-eLK8Scj5-_6DmWgA/a7d949035492ce4507be2c31ee18ff6b/1718585103/live/_definst_/stream_1_1bda7@caySD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0,03:10-17/06. Dodgers vs Royals (SD2 - BLV Người Cây)
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
+#EXTVLCOPT:network-caching=1000
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg1ODUxMDMsInVyaSI6Ii9jYXlTRCIsImlhdCI6MTcxODU2MzUwM30.EsRnTAbuSW_wlp9ubqTwii03UbNjSLcbGxobnKr3No0-/caySD/playlist.m3u8#%7CReferer=https://xem.bdhub.xyz/
+#EXTINF:0, Chào mừng bạn Khách. Tài khoản sẽ hết hạn khi euro kết thúc!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/570fc2252ea843fb7deb58f33aa1689feefb4c8f=456c3cafa4dba805644c2d2dec60ae51=1718574618=1718563818/live/hbo/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/b8a2d47d6513cad9d52c2b212e19b78c262054cc=40e0bc01c2f17a5bf2a2847d11f97769=1718574618=1718563818/live/hbo/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/e5e53a2a05f623be4cbd5f423837315c78902769=4b57483c7e87797cee068c774456fafe=1718574618=1718563818/live/cinemax/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/aa6aeec940805fbd8adcd9f58021d324c3b72c96=2942f6c5318d7bc61b669f9b31699616=1718574618=1718563818/live/axn/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, CinemaWorld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/5fe160a07b8a6bd766fee35e83f338d023d1e5ac=d96a51c0b74a23a45e90aa6b9b3d5edf=1718574618=1718563818/live/cworld/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/be17430b55e20dd778b36b8acd621dfb603f380c=5c861fb19db42468948e8adbfd9dae27=1718574618=1718563818/live/dmax/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/6f25715c936f08b2bad9eb694eb9028631e72a87=4cc1e9fbf2835e97e246177a61479ef0=1718574618=1718563818/live/warnertv/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/ba77aa31589f0c29d8cdacd1985694a2c4d9282a=c8724419e9ddddd114c31cc25079bfd9=1718574618=1718563818/live/inthebox/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/ddaa19b55908d6a35647ef4a38e787a8685e0297=24f7d2b6c6d20a94ab1272d51577a420=1718574618=1718563818/live/boxhits/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/3fe824155264d4bfb1d9cb98f98bea141b5c68b3=24ed8b70eec49d5da5925af77c1059d0=1718574618=1718563818/live/animax/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/4a71d3d2228091937cd9e9a346f9cf50b8406ee2=412ba8c6e07a8ba05be3c09893f5a228=1718574618=1718563818/live/cartoonito/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/dd91200cd1afd59036d99606e4a4ae3d5d3f02ff=580da846e0a97d9eabc6aff4f2bd9e77=1718574618=1718563818/live/cartoon/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0,  Dreamworks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/af7ed92cdc0b6ab8de78e6af8f1278f75e2267b0=ab6c9f233b643ee2529e86f4268e9350=1718574618=1718563818/live/dreamworks/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/7e482b653b44a72ad2e4daeaa27a89cac9641e6e=fcb4fabff310c8ab34c40ea8685005f0=1718574618=1718563818/live/animal/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/29a8f48e6e0603357514cb31ff2503b22d48fe10=aa3ac45dab59996ff799fba3651764f8=1718574618=1718563818/live/discovery/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/1b37aefa09b1df1af2a40a130f585a0360e10ea6=642ec64b2ab49a381c9d099736dec17b=1718574618=1718563818/live/discoveryasia/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, LoidTV 1 LLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/okitatv_llhls.m3u8
+#EXTINF:0, LoidTV 2 LLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/24d3df1995e6d27a0ab3335a270ac51ec5b27ded=4c3eca7e7b40cdfd8870fe94282d762f=1718574618=1718563818/live/okita/master.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, LoidTV 3 LLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/354d263e5a198c457dc42de3852a483e49e8efc2=0ef527f02b71bb9452ff8be423e0d2a3=1718574618=1718563818/live/okita_channel2/master.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, LoidTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/okitatv_live.m3u8
+#EXTINF:0, LoidTV 2 #Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/fd85a4137e70a9831c776770538bfa72a940a46b=8add0f16a88537b9708b7eb1411ca3d5=1718574618=1718563818/live/okita/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
+#EXTINF:0, LoidTV 3 #Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.nsoking.xyz/tv/44e31302d6214cac85fad355713af586956910ac=907d6205592252de0eacbf3588d7da23=1718574618=1718563818/live/okita_channel2/index.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg1ODE4MTgsImlwIjoiMjQwMjo4MDA6NjM0Mzo1NTYxOjExODU6Y2I2NDo4YjI5OmM2YyJ9.BI-ysoimJxpHOlpYyeMFO2WOsIWplHV5p9Y55yxngms&username=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09&password=WjRLTFlWdUorbmVNU1pGeU9Kajl1Zz09
